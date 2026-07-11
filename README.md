@@ -16,6 +16,9 @@
 - Pillow（PIL License / HPND License）
 - wxPython（wxWindows Library Licence）
 - pywin32（MIT License）
+- requests（Apache License 2.0）
+- cantools（MIT License）
+- python-can（LGPL v2.1）
 
 各ライセンスの全文は third_party_licenses フォルダをご参照ください。
 
