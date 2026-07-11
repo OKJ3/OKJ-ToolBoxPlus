@@ -1,4 +1,4 @@
-## OKJ-ToolBox
+## OKJ-ToolBoxPlus
 本ソフトウェアは OKJ によって提供されます。  
 本ソフトウェアの改変および再配布は禁止されています。  
 詳細は [LICENSE](./LICENSE) を参照してください。
